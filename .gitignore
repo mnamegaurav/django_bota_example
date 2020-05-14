@@ -1,0 +1,7 @@
+*.pyc
+*migrations
+/PROJECT/settings.py
+/static/
+db.sqlite3
+bota_db.*
+sentence_tokenizer.pickle
